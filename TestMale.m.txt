@@ -1,1 +1,2 @@
 plot(x,y)
+plot(y,x)
